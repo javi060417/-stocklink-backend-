@@ -1,12 +1,6 @@
-1. En PyCharm, click derecho en "backend" → New → File
-2. Nombre: requirements.txt
-3. COPIA y PEGA:
-
 flask==3.0.0
 flask-sqlalchemy==3.1.1
 flask-cors==4.0.0
 psycopg2-binary==2.9.9
 python-dotenv==1.0.0
 gunicorn==21.2.0
-
-4. Guarda (Ctrl + S)
